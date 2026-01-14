@@ -1,46 +1,45 @@
-# Console-Calculator
-  A simple console-base calculator with a exception handling (try-catch)
+# Console-Based Calculator (Java)
 
-# Features
+A simple **console-based calculator** built in **Java**. This program allows users to perform basic arithmetic operations while handling invalid inputs safely using exception handling.
 
-  Addition
-  
-  Subtraction
-  
-  Multiplication
-  
-  Division
-  
-  Prevents division by zero
-  
-  Handles invalid numeric input
-  
-  Accepts only valid operators (+ - * /)
-  
-  Outputs results formatted to 2 decimal places
+---
 
-# Concepts Used
+## Features
 
-# Java Basics
+- Supports basic arithmetic operations:
+  - Addition (`+`)
+  - Subtraction (`-`)
+  - Multiplication (`*`)
+  - Division (`/`)
+- Input validation using `try-catch`
+- Prevents division by zero
+- Accepts only valid operators
+- Displays results formatted to **2 decimal places**
 
-  Variables
-  
-  Arrays
-  
-  Methods
-  
-  Loops
+---
 
-# Exception Handling
+## Technologies Used
 
-  try-catch
+- Java  
+- `Scanner` for user input  
+- Exception handling with `InputMismatchException`  
+- Control flow using loops and `switch` expressions  
 
-  InputMismatchException
+---
 
-# Input Validation
+## How It Works
 
-  Operator checking using arrays
-  
-# User Input
+1. The user enters the **first number**.
+   - Invalid inputs are rejected until a valid number is provided.
+2. The user enters a **valid operator** (`+`, `-`, `*`, `/`).
+3. The user enters the **second number**.
+   - Division by zero is prevented.
+4. The program calculates and displays the result.
 
-  Scanner
+---
+
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/John-0-6/Console-Based-Calculator.git
