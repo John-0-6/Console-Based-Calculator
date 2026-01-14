@@ -40,3 +40,7 @@
 # Input Validation
 
   Operator checking using arrays
+  
+# User Input
+
+  Scanner
