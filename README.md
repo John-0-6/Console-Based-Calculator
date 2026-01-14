@@ -42,4 +42,4 @@ A simple **console-based calculator** built in **Java**. This program allows use
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/John-0-6/Console-Based-Calculator.git
+   git clone https://github.com/John-0-6/Calculator-Console-Based.git
