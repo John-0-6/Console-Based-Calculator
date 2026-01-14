@@ -1,7 +1,7 @@
 # Console-Calculator
   A simple console-base calculator with a exception handling (try-catch)
 
-# Features:
+# Features
 
   Addition
   
@@ -19,9 +19,9 @@
   
   Outputs results formatted to 2 decimal places
 
-# Concepts Used:
+# Concepts Used
 
-# Java Basics:
+# Java Basics
 
   Variables
   
@@ -31,12 +31,12 @@
   
   Loops
 
-# Exception Handling:
+# Exception Handling
 
   try-catch
 
   InputMismatchException
 
-Input Validation:
+# Input Validation
 
   Operator checking using arrays
